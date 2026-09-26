@@ -7,17 +7,7 @@ A modern full-stack web application designed to reduce queues in college canteen
 The system also provides a dedicated canteen administration interface for managing menu items, incoming orders, serving tokens, announcements, and operational statistics.
 
 > **🎓 Academic Project:** Web Technology / Full-Stack Web Application  
-> **🚀 Live Demo:** https://bqxvqg-haf7c7rkn-arcadawebapps6.vercel.app
 
----
-
-## 🌐 Live Demo
-
-### 👉 [Open Smart Food Pickup System](https://bqxvqg-haf7c7rkn-arcadawebapps6.vercel.app)
-
-The deployed application demonstrates the complete student ordering experience and the canteen management workflow.
-
----
 
 ## ✨ Project Highlights
 
@@ -611,13 +601,6 @@ Potential improvements include:
 **Frontend:** React + TypeScript + Vite  
 **Backend:** Vercel Serverless Functions  
 **Database:** Supabase PostgreSQL  
-**Deployment:** Vercel  
-
-### Live Application
-
-**https://bqxvqg-haf7c7rkn-arcadawebapps6.vercel.app**
-
----
 
 ## 📄 License
 
